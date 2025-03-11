@@ -1,0 +1,13 @@
+fastapi[all]
+numpy
+joblib
+pydantic
+sklearn
+scikit-learn
+fastapi
+uvicorn
+joblib
+numpy
+pydantic
+typing-extensions
+scikit-learn
